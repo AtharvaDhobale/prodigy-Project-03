@@ -16,7 +16,7 @@ An interactive and colorful Tic-Tac-Toe game built using **HTML**, **CSS**, and 
 
 ## 📁 Project Structure
 ## 🚀 Live Demo
-[https://krishmali-7171.github.io/tic-tac-toe/](https://krishmali-7171.github.io/tic-tac-toe/)
+https://atharvadhobale.github.io/prodigy-Project-03/
 
 ## 📎 Internship Info
 - **Task**: Interactive Tic-Tac-Toe Game
